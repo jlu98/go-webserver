@@ -12,7 +12,6 @@ import (
 )
 
 // this is an important comment
-// another important comment
 type posts struct {
 	UserId int    `json:"userId`
 	Id     int    `json:"id"`
